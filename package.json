@@ -14,5 +14,11 @@
   "type": "module",
   "workspaces": [
     "src/dkeeper_frontend"
-  ]
+  ],
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@material-ui/icons": "^4.11.3"
+  }
 }
